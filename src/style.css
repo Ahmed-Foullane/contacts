@@ -1,0 +1,22 @@
+
+
+.add{
+    padding: 8px 12px;
+    background-color: rgb(73, 73, 251);
+    border-radius: 40%;
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    color: #fff;
+}
+
+.add-contact-form{
+    position: absolute;
+    top: 30%;
+    background-color: rgb(255, 255, 255);
+}
+
+.phone-number{
+    background-color: red;
+}
+
